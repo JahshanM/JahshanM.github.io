@@ -2,8 +2,6 @@
 layout: post
 ---
 
-## Matteo Jahshan
-
 Electrical Engineering Student @ YorkU
 
 Lead PCB Designer @ YURS
