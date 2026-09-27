@@ -16,5 +16,6 @@ What???
 
 _**I SAID CHOCOLATE**_
 
-Chocolate? oh sweet chocolate
-**I Hated It!!!**
+Chocolate? I remember when they first invented chocolate <br>
+Sweet Sweet Chocolate<br>
+**I Always Hated It!!!**
