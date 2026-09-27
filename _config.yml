@@ -18,7 +18,8 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "AboutMe.md", sidebaricon: address-card}
+  - {file: "AboutMe.md", title: "About Me"}
+  - {file: "Projects.md", title: "Projects"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Github, icon: github, url: "https://github.com/JahshanM"}
