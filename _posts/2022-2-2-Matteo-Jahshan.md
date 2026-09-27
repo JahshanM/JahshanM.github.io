@@ -8,4 +8,3 @@ layout: post
   <img src="/BPV1Award2.JPG" style="width: 250px; flex-shrink: 0;">
 </div>
 
-
