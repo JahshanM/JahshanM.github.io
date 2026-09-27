@@ -2,16 +2,15 @@
 title:  "About Me"
 layout: post
 ---
+What What, What's all that yelling? You just can't wait for me to **DIE** can you?
 
-They're selling what?
+_They're sellin' chocolate_
 
-_chocolate_
+Chocolate??
 
-what?
+_Yeah_
 
-_Chocolate!_
-
-What???
+What? What are they sellin'?
 
 _**I SAID CHOCOLATE**_
 
