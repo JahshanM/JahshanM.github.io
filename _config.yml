@@ -1,10 +1,10 @@
 title: "Matteo Jahshan"
 author: ""
-description: "My blog"
-permalink: /:title/
+#description: "My blog"
+#permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+#excerpt_separator: "\n\n\n"
+#date_format: "%B %d, %Y"
 
 # Layout
 
