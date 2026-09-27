@@ -3,8 +3,6 @@ title:  "About Me"
 layout: post
 ---
 
-## About Me
-
 They're selling what?
 
 _chocolate_
