@@ -2,7 +2,6 @@
 title:  "About Me"
 layout: post
 ---
-What What, What's all that yelling? You just can't wait for me to **DIE** can you?
 
 _They're sellin' chocolate_
 
