@@ -5,6 +5,6 @@ layout: post
   <div style="text-align: left;">
     <br><br><br><br><br><br><br><br>Electrical Engineering Student @ YorkU<br>Lead PCB Designer @ YURS<br>Lifecycle Support Intern @ Hitachi Rail
   </div>
-  <img src="/BPV1Award2.JPG" style="width: 400px; flex-shrink: 0;">
+  <img src="/Pictures/BPV1Award2.JPG" style="width: 400px; flex-shrink: 0;">
 </div>
 
