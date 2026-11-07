@@ -1,5 +1,4 @@
 ---
-title: About Me
 layout: post
 ---
 <span style="font-size: 30px; font-weight: bold;">About Me</span>
