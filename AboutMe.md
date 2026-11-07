@@ -13,7 +13,7 @@ I’m Matteo; a 3rd electrical engineering student at York University interested
 My biggest inspiration to study STEM was the physicist Richard Feynman, I was inspired by his ability to deconstruct complex physics topics into digestible ideas for anyone to understand, something that can be applied to any STEM field. I also enjoyed the passion he had in his lectures, he explained everything enthusiastically, as if he was having fun thinking about what he was explaining. This taught me that passion and interest for what you are doing not only makes what you are doing enjoyable but also inspires others too. Being invested in whatever I’m doing is a work and lifestyle value that makes it easier for me to try my hardest at whatever I’m doing. The most important work value for me is financial security, such as job security and financial freedom, which could be a decent salary, or opportunity for salary increases. While at work, I like fast-paced, competitive environments, working on a handful of difficult tasks in a small team. Outside of work, I enjoy a work-life balance that doesn’t require me to work on weekends unless under specific circumstances. My lifestyle values are heavily tied to my work values. Financial freedom can include owning my own home. I also want time to myself, being able to live close to work allows me to spend time with my friends often and pursue personal interests. Through I would prefer to live in a constant, warm climate, this is not necessarily a determining factor.  
 
 <div align="center">
-   **Explore the world. Nearly everything is really interesting if you go into it deeply enough**
+   <i>"Explore the world. Nearly everything is really interesting if you go into it deeply enough"
   <br>
   — Richard Feynman
 </div>
