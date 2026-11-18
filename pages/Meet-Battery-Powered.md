@@ -8,5 +8,5 @@ layout: post
   <div style="text-align: left;">
     <br><br><br><br><br><br><br><br> April 2025, Battery Powered placed 1st at the Ontario Sumobot Competition at U of T.
   </div>
-  <img src="/Pictures/BPV1Greatness.jpg" style="width: 200px; flex-shrink: 0;">
+  <img src="/Pictures/BPV1Greatness.jpg" style="width: 300px; flex-shrink: 0;">
 </div>
