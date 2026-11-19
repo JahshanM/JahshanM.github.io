@@ -3,6 +3,7 @@ title: Meet Battery Powered
 layout: post
 ---
 
+## Battery Powered V1
 
 <div style="display: flex; gap: 20px; justify-content: center; max-width: 800px; margin: 0 auto; align-items: flex-start;">
   <div style="text-align: center;">
@@ -12,17 +13,14 @@ layout: post
 </div>
 
 
-<br><br>
+## Battery Powered V2
 
-## Battery Powered V1
+For our return, we knew we'd have much more competition.
+<br>
+I introduced an algorithm that allowed our bot to lock onto a target if our bot saw them. I also designed a larger chassis.
+<br>
+We placed 3rd at the 2026 Ontario Sumobot Competition at York University Markham Campus.
+<br>
+From this, I learned how to design and optimize code, as well as how to modify code to effectively interact with the environment.
 
-<div style="display: flex; gap: 20px; justify-content: center; max-width: 800px; margin: 0 auto; align-items: flex-start;">
-    <img src="/Pictures/BPV1Assembled.jpg" style="width: 500px; flex-shrink: 0;">
-  </div>
-  <div style="text-align: center;">
-  <br><br><br><br><br>Our original strategy was simple: charge towards our opponent as quickly as possible and take them out. If we missed, we continue spinning until we find them.
-    <br>
-    I designed the chassis, and I did the wiring.
-    <br>
-    From this, I learned 3D modeling, as well as how to 3D print models
-</div>
+
