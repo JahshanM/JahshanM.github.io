@@ -13,10 +13,7 @@ layout: post
 </div>
 
 
-
-<div align="center">
-  ## Battery Powered V2
-  
+## Battery Powered V2
   For our return, we knew we'd have much more competition.
   <br>
   I introduced an algorithm that allowed our bot to lock onto a target if our bot saw them. I also designed a larger chassis.
@@ -24,7 +21,6 @@ layout: post
   We placed 3rd at the 2026 Ontario Sumobot Competition at York University Markham Campus.
   <br>
   From this, I learned how to design and optimize code, as well as how to modify code to effectively interact with the environment.
-</div>
 
 <div style="display: flex; gap: 20px; justify-content: center; max-width: 800px; margin: 0 auto; align-items: flex-start;">
   <div style="text-align: left;">
