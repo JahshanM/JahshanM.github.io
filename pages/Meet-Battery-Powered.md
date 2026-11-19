@@ -23,4 +23,10 @@ We placed 3rd at the 2026 Ontario Sumobot Competition at York University Markham
 <br>
 From this, I learned how to design and optimize code, as well as how to modify code to effectively interact with the environment.
 
+<div style="display: flex; gap: 20px; justify-content: center; max-width: 800px; margin: 0 auto; align-items: flex-start;">
+  <img src="/Pictures/BPV2Greatness.jpg" style="width: 500px; flex-shrink: 0;">
+  </div>
+  <img src="/Pictures/BPV1Battle.jpg" style="width: 500px; flex-shrink: 0;">
+</div>
+
 
