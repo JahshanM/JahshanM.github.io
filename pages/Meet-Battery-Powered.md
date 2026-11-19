@@ -26,7 +26,7 @@ From this, I learned how to design and optimize code, as well as how to modify c
 <div style="display: flex; gap: 20px; justify-content: center; max-width: 800px; margin: 0 auto; align-items: flex-start;">
   <img src="/Pictures/BPV2Greatness.jpg" style="width: 500px; flex-shrink: 0;">
   </div>
-  <img src="/Pictures/BPV1Battle.jpg" style="width: 500px; flex-shrink: 0;">
+  <img src="/Pictures/BPV2Battle.jpg" style="width: 500px; flex-shrink: 0;">
 </div>
 
 
