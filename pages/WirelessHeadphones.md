@@ -10,3 +10,12 @@ layout: post
 </div>
 <br>
 3D Model done in Autodesk Inventor
+### Chassis Goal:
+LED Indicators for battery life and when power is on
+Volume up and down button
+Adjustable Headset for head size
+<br>
+<br>
+
+## PCB
+
