@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Meet Battery Powered" 
-permalink: /battery-powered/
 ---
 
-
+## Battery Powered
 <div align="center">
    <img src="/Pictures/BPV2Battle.jpg" style="width: 500px; flex-shrink: 0;">
 </div>
@@ -17,5 +15,5 @@ permalink: /battery-powered/
 
 <br>
 
-
 ## Wireless Headphones
+
