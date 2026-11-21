@@ -27,4 +27,4 @@ layout: post
  - PCB Designed in Altium Designer
  - Allow Both Wired and Wireless Audio
  - Have Rechargeable Battery
- - Mock BOM: https://docs.google.com/spreadsheets/d/1eUR0VyTMGsT-ueXcNEevcutG0HFHzH9xCmZR6US468E/edit?gid=0#gid=0 
+ - [Mock BOM](https://docs.google.com/spreadsheets/d/1eUR0VyTMGsT-ueXcNEevcutG0HFHzH9xCmZR6US468E/edit?gid=0#gid=0)
