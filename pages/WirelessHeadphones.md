@@ -12,7 +12,7 @@ layout: post
 
 ### Chassis Goal:
  - Chassis: designed in Autodesk Inventor
- - LED Indicators for Battery Life and for when power is on
+ - LED Indicators: for battery life and for when power is on
  - Volume Up and Down Buttons
  - Adjustable Headset for head size
 <br>
