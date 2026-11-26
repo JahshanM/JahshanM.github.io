@@ -2,8 +2,6 @@
 layout: post
 ---
 
-## York University - Lassonde School of Engineering
-
 <br>
 GPA: B+
 <br>
