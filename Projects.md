@@ -1,7 +1,8 @@
 ---
 layout: page
+title: Projects
 ---
-# Projects
+
 
 ## Battery Powered
 <div align="center">
