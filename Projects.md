@@ -1,8 +1,9 @@
 ---
 layout: page
 ---
+# Projects
 
-### Battery Powered
+## Battery Powered
 <div align="center">
    <img src="/Pictures/BPV2Battle.jpg" style="width: 500px; flex-shrink: 0;">
 </div>
@@ -15,7 +16,7 @@ layout: page
 
 <br>
 
-### Wireless Headphones
+## Wireless Headphones
 
 <div align="center">
    <img src="/Pictures/HeadphoneAssembly.png" style="width: 500px; flex-shrink: 0;">
